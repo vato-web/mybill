@@ -1,5 +1,5 @@
 
 
-<p>This is my app, I can edit it all I want.</p>
+<p>Noviq App na Vaso i Tosho.</p>
 
 
